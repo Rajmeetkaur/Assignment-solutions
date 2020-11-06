@@ -12,7 +12,7 @@ data_base={123456:
                 "age":21,
                 "email":"kakadey@gmail.com",
                 "address":"445 ews ram nager bhilai ",
-                "account balamce":50000,
+                "account balance":50000,
                 "mobile no.":8765432190,
                 "password":"kaka123"}}
 account=int(input("please enter your user no.  :  "))
