@@ -1,4 +1,4 @@
-#solution 1
+# solution 1
 
 dictionary= {"name":"Utkarsh kakadey",
              "age":20,
@@ -23,7 +23,7 @@ if _name_ == "_main_":
     my_list =[11, 45, 8, 11, 23, 45, 23, 45, 89] 
     print(CountFrequency(my_list))
     
- #solution 3
+# solution 3
  
 sampleList = [87, 52, 44, 53, 54, 87, 52, 53]
 
@@ -58,7 +58,7 @@ def outerFun(a, b):
 result = outerFun(5, 10)
 print(result
 
-#solution 6 
+# solution 6 
 
 def recur_fibo(n):
    if n <= 1:
@@ -82,7 +82,7 @@ def displayStudent(name, age):
 
 displayStudent("utkarsh", 20)
 
-#solution 8 
+# solution 8 
 count=0
 while (True):
     print("enter your mobile number")
