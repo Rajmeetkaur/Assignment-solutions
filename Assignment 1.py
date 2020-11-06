@@ -32,7 +32,7 @@ new.sort()
 print("Sorted list is:",new)
 
 #solution 3
-# Python program to find largest
+# Python program to find second largest
 # number in a list
  
 # list of numbers
